@@ -9,9 +9,9 @@ Students can join classes, view and submit assignments/projects, and track their
 ## My Role
 I was responsible for **UI/UX design** and **Front-End development**.
 
-## Backend Repository
-The backend for this project is available [here](https://github.com/fatemezahrafathian/SE_Project_UCMS.git).
-
+## Links
+- **Backend Repository:** [here](https://github.com/K-Kabiri/UCMS_Backend.git)  
+- **UI/UX Design (Figma):** [here]([https://www.figma.com/design/3nNXP2gVywGGyzd1VjprGn/se-phase01?node-id=0-1&t=24P53J2VedxUlSEQ-1](https://www.figma.com/design/3nNXP2gVywGGyzd1VjprGn/UCMS?node-id=0-1&t=24P53J2VedxUlSEQ-1))
 ## Features
 - Instructor:
   - Create and manage classes
